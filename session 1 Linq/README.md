@@ -7,8 +7,8 @@ Here’s everything you need for **Session 1 (LINQ)**:
 
 ## 📘 Materials
 
-- **Slides:** *[Add link here]*
-- **Code Examples:** *[Add link here]*
+- **Slides:** 
+- **Code Examples:** 
 
 ---
 
