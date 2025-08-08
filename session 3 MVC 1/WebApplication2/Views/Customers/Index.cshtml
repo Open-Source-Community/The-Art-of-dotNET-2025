@@ -1,0 +1,10 @@
+﻿@model List<WebApplication2.Models.Customers> 
+
+
+
+@foreach (var item in Model)
+{
+    <h1>@item.Id</h1>
+    <h1>@item.Name</h1>
+    <h1>@item.PhoneNumber</h1>
+}

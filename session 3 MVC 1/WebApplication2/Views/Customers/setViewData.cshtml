@@ -1,0 +1,33 @@
+﻿
+
+
+
+
+
+@* 
+<h1>@ViewData["msg"]</h1> *@
+
+<h1>@ViewBag.msg</h1>
+
+
+@foreach (var item in ViewData["Customers"]as List<Customers>)
+{
+    <h1>@item.Id</h1>
+    <h2>@item.Name</h2>
+    <h2>@item.PhoneNumber</h2>
+}
+
+
+#<!-- #region viewbag -->
+
+ <h1>viewbag list demo</h1>
+@foreach (var item in ViewBag.Customerlist)
+{
+    <h1>@item.Id</h1>
+    <h2>@item.Name</h2>
+    <h2>@item.PhoneNumber</h2>
+}
+
+<!-- #endregion -->
+
+

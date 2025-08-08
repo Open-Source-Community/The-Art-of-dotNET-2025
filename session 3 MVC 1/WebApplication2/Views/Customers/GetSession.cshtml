@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Session Demo";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@if (ViewBag.Username != null)
+{
+    <div>
+        <strong>Username:</strong> @ViewBag.Username
+    </div>
+}
+
+@if (ViewBag.UserId != null)
+{
+    <div >
+        <strong>User ID:</strong> @ViewBag.UserId
+    </div>
+}
+
+@if (ViewBag.Username == null)
+{
+    <div>
+        No session data found.
+    </div>
+}

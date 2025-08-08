@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "TempData Demo";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@if (TempData["Message"] != null)
+{
+    <div>
+        <strong>Message:</strong> @TempData["Message"]
+    </div>
+}
+
+@if (TempData["Timestamp"] != null)
+{
+    <div>
+        <strong>Generated at:</strong> @TempData["Timestamp"]
+    </div>
+}
+

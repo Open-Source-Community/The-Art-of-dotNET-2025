@@ -1,0 +1,29 @@
+﻿@using WebApplication2.ViewModels
+@model CustomerViewModel
+
+<h1>@Model.PageTitle</h1>
+
+<p>@Model.WelcomeMessage - Today is @Model.CurrentDate.ToString("D")</p>
+
+<h2>Customer List</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>     
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var customer in Model.Customers)
+        {
+            <tr>
+                <td>@customer.Id</td>
+                <td>@customer.Name</td>
+                <td>@customer.Email</td>
+                <td>@customer.PhoneNumber</td>
+            </tr>
+        }
+    </tbody>
+</table>

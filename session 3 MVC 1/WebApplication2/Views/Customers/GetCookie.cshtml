@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Cookie Demo";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@if (ViewBag.CookieValue != null)
+{
+    <div>
+        <strong>Cookie Value:</strong> @ViewBag.CookieValue
+    </div>
+}
+else
+{
+    <div>
+        No cookie found.
+    </div>
+}
