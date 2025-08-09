@@ -8,7 +8,7 @@
 
 
 ## 🔗 Additional Resources  
--  What is MVC?:
+- What is MVC?:
   - [video 1](https://www.youtube.com/watch?v=yfckH7hbCEw) 
   - [video 2](https://www.youtube.com/watch?v=q2AcJmB03Io&list=PL82C6-O4XrHde_urqhKJHH-HTUfTK6siO)
     
@@ -51,6 +51,7 @@ If you want to learn more, check out this [website](https://dotnettutorials.net/
 
 
 ---
+
 
 
 
