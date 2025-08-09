@@ -4,7 +4,7 @@
 
 
 ## 🖥️ Slides  
-- `slides/`: MVC_Session1.pptx.  
+- `MVC_Session1.pptx/`:
 
 
 ## 🔗 Additional Resources  
@@ -51,6 +51,7 @@ If you want to learn more, check out this [website](https://dotnettutorials.net/
 
 
 ---
+
 
 
 
