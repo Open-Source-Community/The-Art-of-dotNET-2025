@@ -13,7 +13,7 @@
   - [video 2](https://www.youtube.com/watch?v=q2AcJmB03Io&list=PL82C6-O4XrHde_urqhKJHH-HTUfTK6siO)
     
 - Virtual vs Self-hosting:
-  - [kestral](video:https://www.youtube.com/watch?v=yTBEO9dTUI4&list=PL1BztTYDF-QPgfvPouABKLwfTKxB6z7gk&index=5)
+  - [kestral](https://www.youtube.com/watch?v=yTBEO9dTUI4&list=PL1BztTYDF-QPgfvPouABKLwfTKxB6z7gk&index=5)
     
 - Project Structure:
   - [Overview](https://www.youtube.com/watch?v=RWXKysImabs&t=456s) *(till 43:43)*
@@ -32,8 +32,7 @@
   - [ViewModels](https://www.youtube.com/watch?v=NfUccG5faBQ)
 
 - State Managent
-   - [cookies and how they work](https://www.youtube.com/watch?v=YRml8vkcUDI
-) *(Description)*
+   - [cookies and how they work](https://www.youtube.com/watch?v=YRml8vkcUDI)
    - [cookies vs sessions ](https://www.youtube.com/watch?v=GhrvZ5nUWNg&t=365s)*((till 6:06))*
    - [cookies vs sessions (Arabic) ](https://www.youtube.com/watch?v=GhrvZ5nUWNg&t=365s)
 
@@ -52,6 +51,7 @@ If you want to learn more, check out this [website](https://dotnettutorials.net/
 
 
 ---
+
 
 
 
