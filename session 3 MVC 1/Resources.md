@@ -10,9 +10,9 @@
 ## 🔗 Additional Resources  
 -  What is MVC?:
   - [video 1](https://www.youtube.com/watch?v=yfckH7hbCEw) 
-  - [video 2](https://example.com)
+  - [video 2](https://www.youtube.com/watch?v=q2AcJmB03Io&list=PL82C6-O4XrHde_urqhKJHH-HTUfTK6siO)
     
-- virtual vs self-hosting:
+- Virtual vs Self-hosting:
   - [kestral](video:https://www.youtube.com/watch?v=yTBEO9dTUI4&list=PL1BztTYDF-QPgfvPouABKLwfTKxB6z7gk&index=5)
     
 - Project Structure:
@@ -24,13 +24,11 @@
   - [Views](https://www.youtube.com/watch?v=tkaF4Bb7RG8&list=PL82C6-O4XrHde_urqhKJHH-HTUfTK6siO&index=5)
 
 - Middlewares
-  - [Document](https://dotnettutorials.net/lesson/asp-net-core-middleware-components/
-) *(Description)*  
+  - [Document](https://dotnettutorials.net/lesson/asp-net-core-middleware-components/)  
   - [Video](https://www.youtube.com/watch?v=BDmTpMtn0cI)
  
 - Passing data to view
-  - [ViewData-ViewBag-TempData-Model](https://www.youtube.com/watch?v=YRml8vkcUDI
-) *(Description)*  
+  - [ViewData-ViewBag-TempData-Model](https://www.youtube.com/watch?v=YRml8vkcUDI)  
   - [ViewModels](https://www.youtube.com/watch?v=NfUccG5faBQ)
 
 - State Managent
@@ -54,5 +52,6 @@ If you want to learn more, check out this [website](https://dotnettutorials.net/
 
 
 ---
+
 
 
