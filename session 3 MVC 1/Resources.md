@@ -38,6 +38,11 @@
 
 ### If you have any questions, please create a post on the Discord Support Channel. Our team will reply as soon as possible!
 
+## We would love to know your opinion!!
+Please fill out the [Feedback Form](https://forms.gle/iL3BaKqWbNTHMzc38)
+
+## [Project Teams Form](https://forms.gle/cVuRnzYQ94WtH9By8)
+
 ## Additional Resources:
 If you want to learn more, check out this [website](https://dotnettutorials.net/course/asp-net-core-tutorials/)
 
@@ -51,6 +56,7 @@ If you want to learn more, check out this [website](https://dotnettutorials.net/
 
 
 ---
+
 
 
 
