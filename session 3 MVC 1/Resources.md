@@ -9,19 +9,18 @@
 
 ## 🔗 Additional Resources  
 -  What is MVC?:
-  - [video 1]([https://example.com](https://www.youtube.com/watch?v=yfckH7hbCEw
-)) * 
+  - [video 1]([https://example.com](https://www.youtube.com/watch?v=yfckH7hbCEw) 
   - [video 2](https://example.com)
     
 - virtual vs self-hosting:
-  - [kestral](video:https://www.youtube.com/watch?v=yTBEO9dTUI4&list=PL1BztTYDF-QPgfvPouABKLwfTKxB6z7gk&index=5) *(Description)*
+  - [kestral](video:https://www.youtube.com/watch?v=yTBEO9dTUI4&list=PL1BztTYDF-QPgfvPouABKLwfTKxB6z7gk&index=5)
     
 - project structure:
   -[Overview](https://www.youtube.com/watch?v=RWXKysImabs&t=456s) *(till 43:43)*
   - [launchsetting.json ](https://www.youtube.com/watch?v=FgykxrF35XQ&list=PL1BztTYDF-QPgfvPouABKLwfTKxB6z7gk&index=6)
-  - [model](https://www.youtube.com/watch?v=p2kzp2d0a4A&list=PL82C6-O4XrHde_urqhKJHH-HTUfTK6siO&index=2) *(Description)*  
+  - [model](https://www.youtube.com/watch?v=p2kzp2d0a4A&list=PL82C6-O4XrHde_urqhKJHH-HTUfTK6siO&index=2)   
   - [DBContext](https://www.youtube.com/watch?v=af_tK9LUiX0&list=PL82C6-O4XrHde_urqhKJHH-HTUfTK6siO&index=3) *(you dont have to install sql server just use the localDB in your vs)*
-  - [Controllers](https://www.youtube.com/watch?v=709kkA8v_WA&list=PL82C6-O4XrHde_urqhKJHH-HTUfTK6siO&index=4) *(Description)*  
+  - [Controllers](https://www.youtube.com/watch?v=709kkA8v_WA&list=PL82C6-O4XrHde_urqhKJHH-HTUfTK6siO&index=4)  
   - [Views](https://www.youtube.com/watch?v=tkaF4Bb7RG8&list=PL82C6-O4XrHde_urqhKJHH-HTUfTK6siO&index=5)
 
 - Middlewares
@@ -55,3 +54,4 @@ If you want to learn more, check out this [website](https://dotnettutorials.net/
 
 
 ---
+
