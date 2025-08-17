@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\API Session\\Task Manager App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD283C-A992-4AA0-BBAE-35CEDF6906F2}|Task Manager App\\Task Manager App.csproj|c:\\users\\pc\\desktop\\api session\\task manager app\\task manager app\\controllers\\todotaskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CD283C-A992-4AA0-BBAE-35CEDF6906F2}|Task Manager App\\Task Manager App.csproj|solutionrelative:task manager app\\controllers\\todotaskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD283C-A992-4AA0-BBAE-35CEDF6906F2}|Task Manager App\\Task Manager App.csproj|c:\\users\\pc\\desktop\\api session\\task manager app\\task manager app\\database\\dataseederscript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{16CD283C-A992-4AA0-BBAE-35CEDF6906F2}|Task Manager App\\Task Manager App.csproj|solutionrelative:task manager app\\database\\dataseederscript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD283C-A992-4AA0-BBAE-35CEDF6906F2}|Task Manager App\\Task Manager App.csproj|c:\\users\\pc\\desktop\\api session\\task manager app\\task manager app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16CD283C-A992-4AA0-BBAE-35CEDF6906F2}|Task Manager App\\Task Manager App.csproj|solutionrelative:task manager app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD283C-A992-4AA0-BBAE-35CEDF6906F2}|Task Manager App\\Task Manager App.csproj|c:\\users\\pc\\desktop\\api session\\task manager app\\task manager app\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CD283C-A992-4AA0-BBAE-35CEDF6906F2}|Task Manager App\\Task Manager App.csproj|solutionrelative:task manager app\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD283C-A992-4AA0-BBAE-35CEDF6906F2}|Task Manager App\\Task Manager App.csproj|c:\\users\\pc\\desktop\\api session\\task manager app\\task manager app\\controllers\\appuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CD283C-A992-4AA0-BBAE-35CEDF6906F2}|Task Manager App\\Task Manager App.csproj|solutionrelative:task manager app\\controllers\\appuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD283C-A992-4AA0-BBAE-35CEDF6906F2}|Task Manager App\\Task Manager App.csproj|c:\\users\\pc\\desktop\\api session\\task manager app\\task manager app\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CD283C-A992-4AA0-BBAE-35CEDF6906F2}|Task Manager App\\Task Manager App.csproj|solutionrelative:task manager app\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD283C-A992-4AA0-BBAE-35CEDF6906F2}|Task Manager App\\Task Manager App.csproj|c:\\users\\pc\\desktop\\api session\\task manager app\\task manager app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CD283C-A992-4AA0-BBAE-35CEDF6906F2}|Task Manager App\\Task Manager App.csproj|solutionrelative:task manager app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 258,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\API Session\\Task Manager App\\Task Manager App\\appsettings.json",
+              "RelativeDocumentMoniker": "Task Manager App\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\API Session\\Task Manager App\\Task Manager App\\appsettings.json",
+              "RelativeToolTip": "Task Manager App\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-15T21:41:49.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\API Session\\Task Manager App\\Task Manager App\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "Task Manager App\\JwtOptions.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\API Session\\Task Manager App\\Task Manager App\\JwtOptions.cs",
+              "RelativeToolTip": "Task Manager App\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T21:41:46.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataSeederScript.sql",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\API Session\\Task Manager App\\Task Manager App\\Database\\DataSeederScript.sql",
+              "RelativeDocumentMoniker": "Task Manager App\\Database\\DataSeederScript.sql",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\API Session\\Task Manager App\\Task Manager App\\Database\\DataSeederScript.sql",
+              "RelativeToolTip": "Task Manager App\\Database\\DataSeederScript.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-15T21:39:55.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoTasksController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\API Session\\Task Manager App\\Task Manager App\\Controllers\\TodoTasksController.cs",
+              "RelativeDocumentMoniker": "Task Manager App\\Controllers\\TodoTasksController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\API Session\\Task Manager App\\Task Manager App\\Controllers\\TodoTasksController.cs",
+              "RelativeToolTip": "Task Manager App\\Controllers\\TodoTasksController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwGMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T20:20:01.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\API Session\\Task Manager App\\Task Manager App\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Task Manager App\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\API Session\\Task Manager App\\Task Manager App\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Task Manager App\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T20:19:40.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\API Session\\Task Manager App\\Task Manager App\\Controllers\\AppUsersController.cs",
+              "RelativeDocumentMoniker": "Task Manager App\\Controllers\\AppUsersController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\API Session\\Task Manager App\\Task Manager App\\Controllers\\AppUsersController.cs",
+              "RelativeToolTip": "Task Manager App\\Controllers\\AppUsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T20:19:33.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\API Session\\Task Manager App\\Task Manager App\\Program.cs",
+              "RelativeDocumentMoniker": "Task Manager App\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\API Session\\Task Manager App\\Task Manager App\\Program.cs",
+              "RelativeToolTip": "Task Manager App\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T18:23:32.202Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
