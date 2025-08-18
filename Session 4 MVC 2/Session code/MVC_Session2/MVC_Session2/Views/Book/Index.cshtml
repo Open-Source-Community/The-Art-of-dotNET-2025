@@ -1,0 +1,22 @@
+﻿@model List<Book>
+<table >
+    <th>Id</th>
+    <th>Title</th>
+    <th>Decription</th>
+    <th>Category</th>
+    @foreach(var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Title</td>
+            <td>@item.Description</td>
+            @if(item.Category != null)
+            {
+                <td>@item.Category.Name</td>
+            }
+        </tr>
+    }
+</table>
+@section Scripts {
+    <script></script>
+}
