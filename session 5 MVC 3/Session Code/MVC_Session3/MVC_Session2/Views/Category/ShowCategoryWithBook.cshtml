@@ -1,0 +1,33 @@
+﻿@model List<Category>
+@{
+    var categoryList = new SelectList(Model, "Id", "Name");
+}
+<div>
+    <div>
+    <select id="Categories" asp-items="categoryList" onchange="GetBook()"></select>
+    </div>
+    <div>
+    <select id="Books"></select>
+    </div>
+</div>
+
+@section Scripts 
+{
+    <script>
+        function GetBook()
+        {
+            var categoryId = document.getElementById("Categories").value;
+            $.ajax(
+                {
+                    url: "/Category/CategoryBooks/"+ categoryId,
+                    success: function(result)
+                    {
+                        for(let book of result)
+                        document.getElementById("Books").innerHTML += 
+                        "<option value='"+book.id+"'>"+book.title+"</option>"
+                    }
+                }
+            )
+        }
+    </script>
+}

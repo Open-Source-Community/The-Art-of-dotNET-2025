@@ -1,0 +1,28 @@
+﻿@model Book
+
+ @{
+     var list = new SelectList(ViewBag.Categories, "Id", "Name");
+ }
+<form method="post" asp-action="SaveNew">
+    <div>
+        <label for="Title">Title</label>
+        <input asp-for="@Model.Title"/>
+        <span asp-validation-for="@Model.Title"></span>
+    </div>
+    <div>
+        <label for="Description">Description</label>
+        <input asp-for="@Model.Description"/>
+    </div>
+    <div>
+        <select asp-for="CategoryId" asp-items="list">
+        </select>
+    </div>
+    <div>
+        <input type="submit" />
+    </div>
+</form>
+
+@section Scripts {
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

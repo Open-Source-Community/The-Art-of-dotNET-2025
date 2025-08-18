@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Backend\\MVC_Session2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65FA8351-00BA-45F8-A382-0A7134092A3D}|MVC_Session2\\MVC_Session2.csproj|d:\\backend\\mvc_session2\\mvc_session2\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FA8351-00BA-45F8-A382-0A7134092A3D}|MVC_Session2\\MVC_Session2.csproj|solutionrelative:mvc_session2\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FA8351-00BA-45F8-A382-0A7134092A3D}|MVC_Session2\\MVC_Session2.csproj|d:\\backend\\mvc_session2\\mvc_session2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FA8351-00BA-45F8-A382-0A7134092A3D}|MVC_Session2\\MVC_Session2.csproj|solutionrelative:mvc_session2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FA8351-00BA-45F8-A382-0A7134092A3D}|MVC_Session2\\MVC_Session2.csproj|d:\\backend\\mvc_session2\\mvc_session2\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FA8351-00BA-45F8-A382-0A7134092A3D}|MVC_Session2\\MVC_Session2.csproj|solutionrelative:mvc_session2\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FA8351-00BA-45F8-A382-0A7134092A3D}|MVC_Session2\\MVC_Session2.csproj|d:\\backend\\mvc_session2\\mvc_session2\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FA8351-00BA-45F8-A382-0A7134092A3D}|MVC_Session2\\MVC_Session2.csproj|solutionrelative:mvc_session2\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FA8351-00BA-45F8-A382-0A7134092A3D}|MVC_Session2\\MVC_Session2.csproj|d:\\backend\\mvc_session2\\mvc_session2\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FA8351-00BA-45F8-A382-0A7134092A3D}|MVC_Session2\\MVC_Session2.csproj|solutionrelative:mvc_session2\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FA8351-00BA-45F8-A382-0A7134092A3D}|MVC_Session2\\MVC_Session2.csproj|d:\\backend\\mvc_session2\\mvc_session2\\views\\account\\registerview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65FA8351-00BA-45F8-A382-0A7134092A3D}|MVC_Session2\\MVC_Session2.csproj|solutionrelative:mvc_session2\\views\\account\\registerview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FA8351-00BA-45F8-A382-0A7134092A3D}|MVC_Session2\\MVC_Session2.csproj|d:\\backend\\mvc_session2\\mvc_session2\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FA8351-00BA-45F8-A382-0A7134092A3D}|MVC_Session2\\MVC_Session2.csproj|solutionrelative:mvc_session2\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FA8351-00BA-45F8-A382-0A7134092A3D}|MVC_Session2\\MVC_Session2.csproj|d:\\backend\\mvc_session2\\mvc_session2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FA8351-00BA-45F8-A382-0A7134092A3D}|MVC_Session2\\MVC_Session2.csproj|solutionrelative:mvc_session2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FA8351-00BA-45F8-A382-0A7134092A3D}|MVC_Session2\\MVC_Session2.csproj|d:\\backend\\mvc_session2\\mvc_session2\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FA8351-00BA-45F8-A382-0A7134092A3D}|MVC_Session2\\MVC_Session2.csproj|solutionrelative:mvc_session2\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FA8351-00BA-45F8-A382-0A7134092A3D}|MVC_Session2\\MVC_Session2.csproj|d:\\backend\\mvc_session2\\mvc_session2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FA8351-00BA-45F8-A382-0A7134092A3D}|MVC_Session2\\MVC_Session2.csproj|solutionrelative:mvc_session2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FA8351-00BA-45F8-A382-0A7134092A3D}|MVC_Session2\\MVC_Session2.csproj|d:\\backend\\mvc_session2\\mvc_session2\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FA8351-00BA-45F8-A382-0A7134092A3D}|MVC_Session2\\MVC_Session2.csproj|solutionrelative:mvc_session2\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FA8351-00BA-45F8-A382-0A7134092A3D}|MVC_Session2\\MVC_Session2.csproj|d:\\backend\\mvc_session2\\mvc_session2\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FA8351-00BA-45F8-A382-0A7134092A3D}|MVC_Session2\\MVC_Session2.csproj|solutionrelative:mvc_session2\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Backend\\MVC_Session2\\MVC_Session2\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "MVC_Session2\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\Backend\\MVC_Session2\\MVC_Session2\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "MVC_Session2\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:16:18.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\Backend\\MVC_Session2\\MVC_Session2\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "MVC_Session2\\Models\\RegisterViewModel.cs",
+              "ToolTip": "D:\\Backend\\MVC_Session2\\MVC_Session2\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "MVC_Session2\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:05:00.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterView.cshtml",
+              "DocumentMoniker": "D:\\Backend\\MVC_Session2\\MVC_Session2\\Views\\Account\\RegisterView.cshtml",
+              "RelativeDocumentMoniker": "MVC_Session2\\Views\\Account\\RegisterView.cshtml",
+              "ToolTip": "D:\\Backend\\MVC_Session2\\MVC_Session2\\Views\\Account\\RegisterView.cshtml",
+              "RelativeToolTip": "MVC_Session2\\Views\\Account\\RegisterView.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T11:03:12.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Backend\\MVC_Session2\\MVC_Session2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MVC_Session2\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Backend\\MVC_Session2\\MVC_Session2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MVC_Session2\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwCoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:00:38.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Backend\\MVC_Session2\\MVC_Session2\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "MVC_Session2\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\Backend\\MVC_Session2\\MVC_Session2\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "MVC_Session2\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:56:18.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Backend\\MVC_Session2\\MVC_Session2\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MVC_Session2\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Backend\\MVC_Session2\\MVC_Session2\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MVC_Session2\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:52:31.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\Backend\\MVC_Session2\\MVC_Session2\\BookRepository.cs",
+              "RelativeDocumentMoniker": "MVC_Session2\\BookRepository.cs",
+              "ToolTip": "D:\\Backend\\MVC_Session2\\MVC_Session2\\BookRepository.cs",
+              "RelativeToolTip": "MVC_Session2\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:38:36.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\Backend\\MVC_Session2\\MVC_Session2\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "MVC_Session2\\IBookRepository.cs",
+              "ToolTip": "D:\\Backend\\MVC_Session2\\MVC_Session2\\IBookRepository.cs",
+              "RelativeToolTip": "MVC_Session2\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:38:11.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\Backend\\MVC_Session2\\MVC_Session2\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "MVC_Session2\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\Backend\\MVC_Session2\\MVC_Session2\\Controllers\\BookController.cs",
+              "RelativeToolTip": "MVC_Session2\\Controllers\\BookController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T08:24:09.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\Backend\\MVC_Session2\\MVC_Session2\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "MVC_Session2\\Controllers\\RoleController.cs",
+              "ToolTip": "D:\\Backend\\MVC_Session2\\MVC_Session2\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "MVC_Session2\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:18:46.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Backend\\MVC_Session2\\MVC_Session2\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MVC_Session2\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Backend\\MVC_Session2\\MVC_Session2\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MVC_Session2\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T08:23:41.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Backend\\MVC_Session2\\MVC_Session2\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_Session2\\Program.cs",
+              "ToolTip": "D:\\Backend\\MVC_Session2\\MVC_Session2\\Program.cs",
+              "RelativeToolTip": "MVC_Session2\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwBgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T00:35:39.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

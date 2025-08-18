@@ -1,0 +1,9 @@
+﻿@model Book
+<div>
+    <h1>@Model.Title</h1>
+    <h2>@Model.Description</h2>
+    @if(Model.Category != null)
+    {
+        <h3>@Model.Category.Name</h3>
+    }
+</div>

@@ -1,0 +1,28 @@
+﻿@model Book
+
+<form method="post" action="/book/SaveEdit/@Model.Id">
+    <div>
+        <label for="Title">Title</label>
+        <input type="text" id="Title" name="Title" value="@Model.Title"/>
+    </div>
+    <div>
+        <label for="Description">Description</label>
+        <input type="text" id="Description" name="Description" value="@Model.Description" />
+    </div>
+    <div>
+        <label for="CategoryId">Category</label>
+        <select name="CategoryId">
+            @foreach (var item in ViewBag.Categories)
+            {
+                if(Model.CategoryId == item.Id)
+                {
+                    <option value="@item.Id" selected>@item.Name</option>
+                }
+                <option value="@item.Id">@item.Name</option>
+            }
+        </select>
+    </div>
+    <div>
+        <input type="submit" />
+    </div>
+</form>
